@@ -33,5 +33,4 @@ This project is a practice application that uses React and Vite to create a sear
     "react-dom": "^18.3.1",
     "react-icons": "^5.2.1"
   }
-  ```
 
